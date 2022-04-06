@@ -114,6 +114,28 @@ section {
     margin-bottom: 25px;
 }
 
+/*SECTION 3*/
+
+section:nth-child(6){
+    background-color: #eae3d6;
+    padding: 0px 0px;  
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+
+section:nth-child(6)>div{
+    width:80%;
+    display: flex;
+    justify-content: space-evenly;
+    gap:75px;
+}
+
+
+
+
 /* FOOTER */
 
 footer {
